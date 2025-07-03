@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class elseif {
+	
 
 	public static void main(String[] args) {
 		System.out.println("Enter The Time :");
